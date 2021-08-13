@@ -1,0 +1,27 @@
+{
+    "name": "yet-another-react-boilerplate",
+    "short_name": "yet-another-react-boilerplate",
+    "start_url": ".",
+    "lang": "en",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "display": "standalone",
+    "description": "react + typescript + scss + webpack + jest boilerplate",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "64x64",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "logo192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "logo512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
